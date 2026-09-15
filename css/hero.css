@@ -10,6 +10,7 @@
 .hero-section {
   padding: 188px 0;
   max-width: 1440px;
+  margin: 0 auto;
   background:
     linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url("../images/hero-bg.jpg") no-repeat center / cover;
@@ -35,5 +36,5 @@
 }
 .cta-button:hover,
 .cta-button:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
